@@ -2,7 +2,7 @@
 
 This is a React on Rails project, where I am using a Rails API as the backend server, and React (with create-react-app) as the frontend server.  
 
-It was original a short tutorial from a YouTube video, then I since modernized by converting the React code to follow the new React Hooks standard which uses function based components in place of class based components.
+It was original a short tutorial from a YouTube video, that I have since modernized by converting the React code to follow the new React Hooks standard which uses function based components in place of class based components.
 
 
 
